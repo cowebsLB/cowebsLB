@@ -101,8 +101,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cowebsLB/cowebsLB/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
