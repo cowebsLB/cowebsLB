@@ -28,13 +28,14 @@
     <a href="https://www.linkedin.com/in/christian-oulikian" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/cowebslb" target="_blank">
+    <a href="[https://instagram.com/cowebslb](https://www.instagram.com/cowebs.lb/?__pwa=1#)" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" />
     </a>
-    <a href="mailto:your-email@gmail.com">
+    <a href="mailto:cowebs.lb@gmail.com">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" />
     </a>
-    <a href="https://discord.com" target="_blank">
+    <a href="[https://discord.com](https://discord.com/users/611635245787381788
+)" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord" />
     </a>
   </p>
