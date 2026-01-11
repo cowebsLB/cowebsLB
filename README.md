@@ -63,7 +63,38 @@ I specialize in the JavaScript ecosystem for web and Python for desktop/automati
 
 <br/>
 
-### 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=cowebsLB&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+
+  <!-- GitHub Stats Card -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cowebsLB&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" alt="Christian's GitHub Stats" />
+
+  <!-- Top Languages Card -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowebsLB&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+
+  <!-- Streak Card -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cowebsLB&theme=radical&hide_border=false" alt="GitHub Streak" />
+
+</p>
+
+---
+
+### 🏆 Pinned / Highlighted Repos
+
+<p align="center">
+
+  <!-- Example pinned repos, change YOUR_REPO_NAME to actual repo -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=cowebsLB&repo=COWebs-CRM&theme=radical" alt="COWebs CRM" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=cowebsLB&repo=Mounifull&theme=radical" alt="Mounifull E-commerce" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=cowebsLB&repo=Education-Materials&theme=radical" alt="Education Materials" />
+
+</p>
 
 
 
