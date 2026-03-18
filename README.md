@@ -5,7 +5,7 @@
   <h1 align="center">Hi there, I'm Christian Oulikian! 👋</h1>
   
   <h3 align="center">
-    Web Developer | Software Developer | Founder of <a href="https://cowebslb.com">COWebs.lb</a>
+    Backend-Focused Full Stack Developer | Founder of <a href="https://cowebslb.com">COWebs.lb</a>
   </h3>
 
   <p align="center">
@@ -15,91 +15,83 @@
   <br/>
 
   <p align="center">
-    I am a full-stack developer passionate about building automation systems, e-commerce platforms, and desktop applications. 
-    Currently running my own development business and teaching the next generation of web developers.
+    I build and stabilize real-world systems — from backend APIs to full-stack applications — 
+    with a focus on reliability, architecture, and production debugging.
   </p>
 
   <br/>
 
   <p align="center">
     <a href="https://cowebslb.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-COWebs.lb-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Website-COWebs.lb-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/christian-oulikian" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
-    </a>
-    <a href="[https://instagram.com/cowebslb](https://www.instagram.com/cowebs.lb/?__pwa=1#)" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" />
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" />
     </a>
     <a href="mailto:cowebs.lb@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" />
-    </a>
-    <a href="[https://discord.com](https://discord.com/users/611635245787381788
-)" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord" />
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" />
     </a>
   </p>
 
 </div>
 
-<br clear="both">
-<hr>
+---
 
-### 🛠️ Tech Stack & Tools
+## 🧠 What I Do
 
-I specialize in the JavaScript ecosystem for web and Python for desktop/automation.
-
-| **Frontend** | **Backend & Database** | **Languages & Tools** |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,html,css,tailwind,bootstrap,webflow" width="300" /> | <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mongodb,sqlite,prisma,firebase" width="300" /> | <img src="https://skillicons.dev/icons?i=ts,js,python,csharp,git,docker,vscode,powershell,flutter" width="300" /> |
-
-<br/>
-
-### 🔭 Current Projects & Focus
-
-* **COWebs CRM:** Building a custom CRM solution for business management (Python/PyQt6).
-* **Mounifull:** Developing a full-scale e-commerce platform.
-* **Education:** Creating course materials and exercises for web development students.
-
-<br/>
+- Design backend systems (NestJS, APIs, RBAC)
+- Build full-stack applications (Angular + TypeScript)
+- Debug real production issues (CI/CD, deployment, infra)
+- Create stable, reproducible build pipelines
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 🔥 Engineering Highlights
+
+- Fixed CI/CD failures caused by pnpm workspace caching and Prisma issues  
+- Designed deterministic build pipeline for stable deployments  
+- Implemented CI/CD gating with unit + e2e tests  
+- Built backend e2e smoke tests for authentication + ERP flows  
+- Diagnosed frontend/backend contract mismatches  
+- Standardized environment config (JWT, CORS, API URLs)  
+
+---
+
+## 🚀 Featured Project
+
+### 🧩 Sphincs ERP + CRM
+
+Full-stack monorepo system (NestJS + Angular)
+
+- Authentication + RBAC  
+- Modular ERP/CRM architecture  
+- PostgreSQL + Prisma ORM  
+- CI/CD pipeline + automated testing  
+- Production deployment (Render + GitHub Pages)  
+
+👉 This project demonstrates real-world system design and production debugging.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Frontend | Backend & DB | Tools |
+|----------|-------------|------|
+| React, Next.js, Tailwind | Node.js, Prisma, PostgreSQL | Git, Docker, pnpm |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=cowebsLB&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-
-  <!-- GitHub Stats Card -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cowebsLB&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" alt="Christian's GitHub Stats" />
-
-  <!-- Top Languages Card -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowebsLB&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-
-  <!-- Streak Card -->
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cowebsLB&theme=radical&hide_border=false" alt="GitHub Streak" />
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cowebsLB&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowebsLB&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🏆 Pinned / Highlighted Repos
+## 🏆 Highlighted Projects
 
 <p align="center">
-
-  <!-- Example pinned repos, change YOUR_REPO_NAME to actual repo -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=cowebsLB&repo=COWebs-CRM&theme=radical" alt="COWebs CRM" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=cowebsLB&repo=Mounifull&theme=radical" alt="Mounifull E-commerce" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=cowebsLB&repo=Education-Materials&theme=radical" alt="Education Materials" />
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=cowebsLB&repo=sphincs-ERP-CRM&theme=radical" />
 </p>
-
-
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cowebsLB&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-</div>
