@@ -1,97 +1,78 @@
-<div align="center">
+# Christian Oulikian
 
-  <img align="right" height="150" src="https://i.pinimg.com/originals/1f/f0/17/1ff017a5df5d688a5061de6478e6bfcc.gif" alt="coding gif" />
+**Backend Engineer & Founder** | [COWebs.lb](https://cowebslb.com)  
+Based in Lebanon 🇱🇧
 
-  <h1 align="center">Hi there, I'm Christian Oulikian! 👋</h1>
-  
-  <h3 align="center">
-    Backend-Focused Full Stack Developer | Founder of <a href="https://cowebslb.com">COWebs.lb</a>
-  </h3>
+Backend engineer specializing in high-performance, multi-tenant systems. Built and deployed production ERP/CRM platforms, reduced critical-path latency by 90%, and shipped 90+ projects across web, AI, and desktop environments.
 
-  <p align="center">
-    <em>Based in Lebanon 🇱🇧</em>
-  </p>
-
-  <br/>
-
-  <p align="center">
-    I build and stabilize real-world systems — from backend APIs to full-stack applications — 
-    with a focus on reliability, architecture, and production debugging.
-  </p>
-
-  <br/>
-
-  <p align="center">
-    <a href="https://cowebslb.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-COWebs.lb-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/christian-oulikian" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" />
-    </a>
-    <a href="mailto:cowebs.lb@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" />
-    </a>
-  </p>
-
-</div>
+[![Website](https://img.shields.io/badge/COWebs.lb-0066CC?style=flat-square&logo=google-chrome&logoColor=white)](https://cowebslb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oulikian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cowebs.lb@gmail.com)
 
 ---
 
-## 🧠 What I Do
+## What I work on
 
-- Design backend systems (NestJS, APIs, RBAC)
-- Build full-stack applications (Angular + TypeScript)
-- Debug real production issues (CI/CD, deployment, infra)
-- Create stable, reproducible build pipelines
-
----
-
-## 🔥 Engineering Highlights
-
-- Fixed CI/CD failures caused by pnpm workspace caching and Prisma issues  
-- Designed deterministic build pipeline for stable deployments  
-- Implemented CI/CD gating with unit + e2e tests  
-- Built backend e2e smoke tests for authentication + ERP flows  
-- Diagnosed frontend/backend contract mismatches  
-- Standardized environment config (JWT, CORS, API URLs)  
+**Backend systems** — NestJS, Node.js, Python (FastAPI, PyQt5), PostgreSQL, Prisma, GraphQL  
+**Performance optimization** — Query restructuring, caching architecture, token design  
+**Full-stack delivery** — React, Next.js, TypeScript, Angular when the product needs it  
+**Infrastructure** — Built deterministic CI/CD pipelines that eliminated deployment inconsistencies and reduced production failures
 
 ---
 
-## 🚀 Featured Project
+## Featured work
 
-### 🧩 Sphincs ERP + CRM
+### [SPHINCS — Multi-tenant ERP/CRM](https://github.com/cowebsLB/sphincs-ERP-CRM)
+**NestJS · Prisma · PostgreSQL · Angular · 107 tables**
 
-Full-stack monorepo system (NestJS + Angular)
+Designed and deployed a 107-table multi-tenant ERP/CRM system with modular RBAC and production CI/CD. Reduced authentication latency from 2800ms to 196ms through query and token architecture optimization. Solved real-world deployment failures, built deterministic build pipelines with automated smoke tests, and stabilized production deployments. Designed multi-app architecture (core-api, erp-web, crm-web) with shared packages.
 
-- Authentication + RBAC  
-- Modular ERP/CRM architecture  
-- PostgreSQL + Prisma ORM  
-- CI/CD pipeline + automated testing  
-- Production deployment (Render + GitHub Pages)  
+### [CodeVerse — Coding education platform](https://github.com/cowebsLB/codeverse)
+**React · TypeScript · Monaco Editor · Vite**
 
-👉 This project demonstrates real-world system design and production debugging.
+Built a Duolingo-style learning platform with 38 programming languages, gamification system (22 achievements, daily challenges, streak tracking), and interactive code execution. Monaco Editor integration, SQLite-in-browser persistence, XP/leveling system with language progression unlocks. Live at [codeverse-eta.vercel.app](https://codeverse-eta.vercel.app)
 
----
+### [VISO — Video editing platform](https://github.com/cowebsLB/VISO)
+**React · TypeScript · FFmpeg.wasm**
 
-## 🛠️ Tech Stack & Tools
+Browser-based video editor with timeline editing, effects, and export. Handles video processing entirely client-side using WebAssembly.
 
-| Frontend | Backend & DB | Tools |
-|----------|-------------|------|
-| React, Next.js, Tailwind | Node.js, Prisma, PostgreSQL | Git, Docker, pnpm |
+### [AirMouse — Gesture mouse controller](https://github.com/cowebsLB/Airmouse)
+**Python · MediaPipe · OpenCV**
 
----
+Real-time hand gesture recognition system for accessibility applications. Built with computer vision and machine learning.
 
-## 📊 GitHub Stats
+### [AI-Integrated ERP/CRM](https://github.com/cowebsLB/AI-integrated-ERP-CRM)
+**Python · FastAPI · SQLite**
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cowebsLB&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowebsLB&layout=compact&theme=radical" />
-</p>
+AI-powered business management system with natural language processing for automated data entry and predictive analytics.
 
 ---
 
-## 🏆 Highlighted Projects
+## Stack
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=cowebsLB&repo=sphincs-ERP-CRM&theme=radical" />
-</p>
+**Backend:** Node.js, NestJS, Python, FastAPI, Prisma, PostgreSQL, GraphQL  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Angular  
+**Python:** PyQt5, OpenCV, MediaPipe, SQLite, bcryptjs  
+**Tooling:** Git, Docker, pnpm, Vite, CI/CD (GitHub Actions), Supabase
+
+---
+
+## By the numbers
+
+- 92+ shipped projects across backend, AI, and full-stack systems
+- Designed and optimized a 107-table production ERP
+- Reduced critical API latency by 90% in production
+- Built a 38-language coding platform with gamification and persistence
+
+---
+
+## Current work
+
+- Running **COWebs.lb** — remote software development studio based in Lebanon
+- Co-founding **CLTI** — corporate language and translation interpretation business (handling technical infrastructure)
+- Open to backend engineering roles with meaningful product impact
+
+---
+
+Want to work together? [Email me](mailto:cowebs.lb@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/christian-oulikian).
